@@ -1,0 +1,20 @@
+set encoding=utf-8
+set nu
+syntax on
+set ai
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set smartindent
+set backspace=2
+set ruler
+set ic
+set number
+set insearch
+set mouse=a
+set hlsearch
+set insearch
+
+inoremap {<CR> {<CR>}<Esc>ko
+inoremap " ""<Esc>i
+inoremap ' ''<Esc>i
