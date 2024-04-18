@@ -10,10 +10,8 @@ set backspace=2
 set ruler
 set ic
 set number
-set insearch
 set mouse=a
 set hlsearch
-set insearch
 
 inoremap {<CR> {<CR>}<Esc>ko
 inoremap " ""<Esc>i
